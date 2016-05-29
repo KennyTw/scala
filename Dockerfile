@@ -1,4 +1,4 @@
-FROM 104senior/java8
+FROM kennytw/java8
 
 MAINTAINER KennyLee <microbean@gmail.com>
 
